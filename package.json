@@ -2,7 +2,6 @@
   "name": "node-dispatch-pc",
   "version": "1.0.0",
   "description": "vue2+webapck2",
-  "@mtime-node-basis/node-bootstrap": "^1.0.27",
   "dependencies": {
     "axios": "^0.16.1",
     "express": "^4.15.2",
@@ -13,7 +12,7 @@
     "vuex": "^2.2.1"
   },
   "scripts": {
-    "dev": "node ./tools/dev.js",
+    "dev": "node ./tools/dev.js"
   },
   "devDependencies": {
     "babel": "^6.23.0",
